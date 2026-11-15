@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 320" width="860" height="320" fill="none">
+  <rect width="860" height="320" rx="20" fill="#002E27" stroke="#C89F65" stroke-width="1.2"/>
+  <text x="430" y="38" text-anchor="middle" font-family="'Noto Sans CJK JP', sans-serif" font-size="17" font-weight="700" fill="#EADBBD">つながる生産履歴：ダクラクの土壌からお客様の一杯まで</text>
+  <line x1="95" y1="155" x2="765" y2="155" stroke="#C89F65" stroke-width="2" stroke-dasharray="6 5"/>
+
+  <!-- Step 1 -->
+  <circle cx="95" cy="155" r="34" fill="#003830" stroke="#C89F65" stroke-width="2"/>
+  <text x="95" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#C89F65">01</text>
+  <text x="95" y="212" text-anchor="middle" font-family="'Noto Sans CJK JP', sans-serif" font-size="12" font-weight="700" fill="#EADBBD">栽培</text>
+  <text x="95" y="230" text-anchor="middle" font-family="'Noto Sans CJK JP', sans-serif" font-size="10.5" fill="#C89F65">ミミズ堆肥</text>
+  <text x="95" y="245" text-anchor="middle" font-family="'Noto Sans CJK JP', sans-serif" font-size="10.5" fill="#C89F65">健全な土づくり</text>
+
+  <!-- Step 2 -->
+  <circle cx="229" cy="155" r="34" fill="#003830" stroke="#C89F65" stroke-width="2"/>
+  <text x="229" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#C89F65">02</text>
+  <text x="229" y="212" text-anchor="middle" font-family="'Noto Sans CJK JP', sans-serif" font-size="12" font-weight="700" fill="#EADBBD">収穫</text>
+  <text x="229" y="230" text-anchor="middle" font-family="'Noto Sans CJK JP', sans-serif" font-size="10.5" fill="#C89F65">完熟果実の割合</text>
+  <text x="229" y="245" text-anchor="middle" font-family="'Noto Sans CJK JP', sans-serif" font-size="10.5" fill="#C89F65">日付別に記録</text>
+
+  <!-- Step 3 -->
+  <circle cx="363" cy="155" r="34" fill="#003830" stroke="#C89F65" stroke-width="2"/>
+  <text x="363" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#C89F65">03</text>
+  <text x="363" y="212" text-anchor="middle" font-family="'Noto Sans CJK JP', sans-serif" font-size="12" font-weight="700" fill="#EADBBD">加工</text>
+  <text x="363" y="230" text-anchor="middle" font-family="'Noto Sans CJK JP', sans-serif" font-size="10.5" fill="#C89F65">温度・水分</text>
+  <text x="363" y="245" text-anchor="middle" font-family="'Noto Sans CJK JP', sans-serif" font-size="10.5" fill="#C89F65">発酵を管理</text>
+
+  <!-- Step 4 -->
+  <circle cx="497" cy="155" r="34" fill="#003830" stroke="#C89F65" stroke-width="2"/>
+  <text x="497" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#C89F65">04</text>
+  <text x="497" y="212" text-anchor="middle" font-family="'Noto Sans CJK JP', sans-serif" font-size="12" font-weight="700" fill="#EADBBD">検査</text>
+  <text x="497" y="230" text-anchor="middle" font-family="'Noto Sans CJK JP', sans-serif" font-size="10.5" fill="#C89F65">カッピングと</text>
+  <text x="497" y="245" text-anchor="middle" font-family="'Noto Sans CJK JP', sans-serif" font-size="10.5" fill="#C89F65">食品安全確認</text>
+
+  <!-- Step 5 -->
+  <circle cx="631" cy="155" r="34" fill="#003830" stroke="#C89F65" stroke-width="2"/>
+  <text x="631" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#C89F65">05</text>
+  <text x="631" y="212" text-anchor="middle" font-family="'Noto Sans CJK JP', sans-serif" font-size="12" font-weight="700" fill="#EADBBD">ロット番号</text>
+  <text x="631" y="230" text-anchor="middle" font-family="'Noto Sans CJK JP', sans-serif" font-size="10.5" fill="#C89F65">固有の12桁</text>
+  <text x="631" y="245" text-anchor="middle" font-family="'Noto Sans CJK JP', sans-serif" font-size="10.5" fill="#C89F65">識別番号</text>
+
+  <!-- Step 6 -->
+  <circle cx="765" cy="155" r="34" fill="#C89F65" stroke="#EADBBD" stroke-width="2"/>
+  <text x="765" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#003830">06</text>
+  <text x="765" y="212" text-anchor="middle" font-family="'Noto Sans CJK JP', sans-serif" font-size="12" font-weight="700" fill="#EADBBD">お客様が確認</text>
+  <text x="765" y="230" text-anchor="middle" font-family="'Noto Sans CJK JP', sans-serif" font-size="10.5" fill="#C89F65">QRコードを読取</text>
+  <text x="765" y="245" text-anchor="middle" font-family="'Noto Sans CJK JP', sans-serif" font-size="10.5" fill="#C89F65">ロット情報表示</text>
+
+  <text x="430" y="292" text-anchor="middle" font-family="'Noto Sans CJK JP', sans-serif" font-size="11" font-style="italic" fill="#EADBBD" fill-opacity="0.85">「各工程の記録は対象の生産ロットと結び付いています。」</text>
+</svg>

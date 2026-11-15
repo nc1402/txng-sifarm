@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 320" width="860" height="320" fill="none">
+  <rect width="860" height="320" rx="20" fill="#002E27" stroke="#C89F65" stroke-width="1.2"/>
+  <text x="430" y="38" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="700" fill="#EADBBD">CHU TRÌNH DỮ LIỆU KHÉP KÍN: TỪ ĐẤT ĐỎ ĐẮK LẮK ĐẾN TAY NGƯỜI THƯỞNG THỨC</text>
+  <line x1="95" y1="155" x2="765" y2="155" stroke="#C89F65" stroke-width="2" stroke-dasharray="6 5"/>
+
+  <!-- Step 1 -->
+  <circle cx="95" cy="155" r="34" fill="#003830" stroke="#C89F65" stroke-width="2"/>
+  <text x="95" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#C89F65">01</text>
+  <text x="95" y="212" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#EADBBD">Canh Tác</text>
+  <text x="95" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="10.5" fill="#C89F65">Phân trùn quế</text>
+  <text x="95" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10.5" fill="#C89F65">&amp; Đất sạch</text>
+
+  <!-- Step 2 -->
+  <circle cx="229" cy="155" r="34" fill="#003830" stroke="#C89F65" stroke-width="2"/>
+  <text x="229" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#C89F65">02</text>
+  <text x="229" y="212" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#EADBBD">Thu Hái</text>
+  <text x="229" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="10.5" fill="#C89F65">Tỷ lệ trái chín</text>
+  <text x="229" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10.5" fill="#C89F65">ghi theo ngày</text>
+
+  <!-- Step 3 -->
+  <circle cx="363" cy="155" r="34" fill="#003830" stroke="#C89F65" stroke-width="2"/>
+  <text x="363" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#C89F65">03</text>
+  <text x="363" y="212" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#EADBBD">Chế Biến</text>
+  <text x="363" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="10.5" fill="#C89F65">Kiểm soát nhiệt,</text>
+  <text x="363" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10.5" fill="#C89F65">ẩm &amp; lên men</text>
+
+  <!-- Step 4 -->
+  <circle cx="497" cy="155" r="34" fill="#003830" stroke="#C89F65" stroke-width="2"/>
+  <text x="497" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#C89F65">04</text>
+  <text x="497" y="212" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#EADBBD">Kiểm Định</text>
+  <text x="497" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="10.5" fill="#C89F65">Cupping &amp; chỉ số</text>
+  <text x="497" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10.5" fill="#C89F65">an toàn thực phẩm</text>
+
+  <!-- Step 5 -->
+  <circle cx="631" cy="155" r="34" fill="#003830" stroke="#C89F65" stroke-width="2"/>
+  <text x="631" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#C89F65">05</text>
+  <text x="631" y="212" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#EADBBD">Cấp Mã Lô</text>
+  <text x="631" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="10.5" fill="#C89F65">Định danh 12 số</text>
+  <text x="631" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10.5" fill="#C89F65">duy nhất mỗi mẻ</text>
+
+  <!-- Step 6 -->
+  <circle cx="765" cy="155" r="34" fill="#C89F65" stroke="#EADBBD" stroke-width="2"/>
+  <text x="765" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#003830">06</text>
+  <text x="765" y="212" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#EADBBD">Bạn Kiểm Chứng</text>
+  <text x="765" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="10.5" fill="#C89F65">Quét QR 3 giây</text>
+  <text x="765" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10.5" fill="#C89F65">xem trọn hồ sơ</text>
+
+  <text x="430" y="292" text-anchor="middle" font-family="Arial, sans-serif" font-size="11.5" font-style="italic" fill="#EADBBD" fill-opacity="0.85">"Không có mắt xích nào bị che khuất — mọi cam kết đều được neo vào dữ liệu thực tế của từng lô sản xuất."</text>
+</svg>

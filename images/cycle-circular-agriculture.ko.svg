@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 320" width="860" height="320" fill="none">
+  <rect width="860" height="320" rx="20" fill="#002E27" stroke="#C89F65" stroke-width="1.2"/>
+  <text x="430" y="38" text-anchor="middle" font-family="'Noto Sans CJK KR', sans-serif" font-size="17" font-weight="700" fill="#EADBBD">연결된 이력 추적: 닥락의 토양에서 한 잔의 커피까지</text>
+  <line x1="95" y1="155" x2="765" y2="155" stroke="#C89F65" stroke-width="2" stroke-dasharray="6 5"/>
+
+  <!-- Step 1 -->
+  <circle cx="95" cy="155" r="34" fill="#003830" stroke="#C89F65" stroke-width="2"/>
+  <text x="95" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#C89F65">01</text>
+  <text x="95" y="212" text-anchor="middle" font-family="'Noto Sans CJK KR', sans-serif" font-size="12" font-weight="700" fill="#EADBBD">재배</text>
+  <text x="95" y="230" text-anchor="middle" font-family="'Noto Sans CJK KR', sans-serif" font-size="10.5" fill="#C89F65">지렁이 퇴비</text>
+  <text x="95" y="245" text-anchor="middle" font-family="'Noto Sans CJK KR', sans-serif" font-size="10.5" fill="#C89F65">건강한 토양</text>
+
+  <!-- Step 2 -->
+  <circle cx="229" cy="155" r="34" fill="#003830" stroke="#C89F65" stroke-width="2"/>
+  <text x="229" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#C89F65">02</text>
+  <text x="229" y="212" text-anchor="middle" font-family="'Noto Sans CJK KR', sans-serif" font-size="12" font-weight="700" fill="#EADBBD">수확</text>
+  <text x="229" y="230" text-anchor="middle" font-family="'Noto Sans CJK KR', sans-serif" font-size="10.5" fill="#C89F65">완숙 체리 비율</text>
+  <text x="229" y="245" text-anchor="middle" font-family="'Noto Sans CJK KR', sans-serif" font-size="10.5" fill="#C89F65">날짜별 기록</text>
+
+  <!-- Step 3 -->
+  <circle cx="363" cy="155" r="34" fill="#003830" stroke="#C89F65" stroke-width="2"/>
+  <text x="363" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#C89F65">03</text>
+  <text x="363" y="212" text-anchor="middle" font-family="'Noto Sans CJK KR', sans-serif" font-size="12" font-weight="700" fill="#EADBBD">가공</text>
+  <text x="363" y="230" text-anchor="middle" font-family="'Noto Sans CJK KR', sans-serif" font-size="10.5" fill="#C89F65">온도·수분</text>
+  <text x="363" y="245" text-anchor="middle" font-family="'Noto Sans CJK KR', sans-serif" font-size="10.5" fill="#C89F65">발효 관리</text>
+
+  <!-- Step 4 -->
+  <circle cx="497" cy="155" r="34" fill="#003830" stroke="#C89F65" stroke-width="2"/>
+  <text x="497" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#C89F65">04</text>
+  <text x="497" y="212" text-anchor="middle" font-family="'Noto Sans CJK KR', sans-serif" font-size="12" font-weight="700" fill="#EADBBD">검사</text>
+  <text x="497" y="230" text-anchor="middle" font-family="'Noto Sans CJK KR', sans-serif" font-size="10.5" fill="#C89F65">컵핑 및</text>
+  <text x="497" y="245" text-anchor="middle" font-family="'Noto Sans CJK KR', sans-serif" font-size="10.5" fill="#C89F65">식품안전 확인</text>
+
+  <!-- Step 5 -->
+  <circle cx="631" cy="155" r="34" fill="#003830" stroke="#C89F65" stroke-width="2"/>
+  <text x="631" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#C89F65">05</text>
+  <text x="631" y="212" text-anchor="middle" font-family="'Noto Sans CJK KR', sans-serif" font-size="12" font-weight="700" fill="#EADBBD">로트 코드</text>
+  <text x="631" y="230" text-anchor="middle" font-family="'Noto Sans CJK KR', sans-serif" font-size="10.5" fill="#C89F65">고유한 12자리</text>
+  <text x="631" y="245" text-anchor="middle" font-family="'Noto Sans CJK KR', sans-serif" font-size="10.5" fill="#C89F65">로트 식별</text>
+
+  <!-- Step 6 -->
+  <circle cx="765" cy="155" r="34" fill="#C89F65" stroke="#EADBBD" stroke-width="2"/>
+  <text x="765" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#003830">06</text>
+  <text x="765" y="212" text-anchor="middle" font-family="'Noto Sans CJK KR', sans-serif" font-size="12" font-weight="700" fill="#EADBBD">고객 확인</text>
+  <text x="765" y="230" text-anchor="middle" font-family="'Noto Sans CJK KR', sans-serif" font-size="10.5" fill="#C89F65">QR코드 스캔</text>
+  <text x="765" y="245" text-anchor="middle" font-family="'Noto Sans CJK KR', sans-serif" font-size="10.5" fill="#C89F65">로트 정보 확인</text>
+
+  <text x="430" y="292" text-anchor="middle" font-family="'Noto Sans CJK KR', sans-serif" font-size="11" font-style="italic" fill="#EADBBD" fill-opacity="0.85">“모든 단계의 기록은 해당 생산 로트와 연결됩니다.”</text>
+</svg>

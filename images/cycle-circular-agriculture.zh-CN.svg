@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 320" width="860" height="320" fill="none">
+  <rect width="860" height="320" rx="20" fill="#002E27" stroke="#C89F65" stroke-width="1.2"/>
+  <text x="430" y="38" text-anchor="middle" font-family="'Noto Sans CJK SC', sans-serif" font-size="17" font-weight="700" fill="#EADBBD">闭环溯源流程：从 Đắk Lắk 土壤到消费者手中</text>
+  <line x1="95" y1="155" x2="765" y2="155" stroke="#C89F65" stroke-width="2" stroke-dasharray="6 5"/>
+
+  <!-- Step 1 -->
+  <circle cx="95" cy="155" r="34" fill="#003830" stroke="#C89F65" stroke-width="2"/>
+  <text x="95" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#C89F65">01</text>
+  <text x="95" y="212" text-anchor="middle" font-family="'Noto Sans CJK SC', sans-serif" font-size="12" font-weight="700" fill="#EADBBD">种植</text>
+  <text x="95" y="230" text-anchor="middle" font-family="'Noto Sans CJK SC', sans-serif" font-size="10.5" fill="#C89F65">蚯蚓堆肥</text>
+  <text x="95" y="245" text-anchor="middle" font-family="'Noto Sans CJK SC', sans-serif" font-size="10.5" fill="#C89F65">与健康土壤</text>
+
+  <!-- Step 2 -->
+  <circle cx="229" cy="155" r="34" fill="#003830" stroke="#C89F65" stroke-width="2"/>
+  <text x="229" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#C89F65">02</text>
+  <text x="229" y="212" text-anchor="middle" font-family="'Noto Sans CJK SC', sans-serif" font-size="12" font-weight="700" fill="#EADBBD">采收</text>
+  <text x="229" y="230" text-anchor="middle" font-family="'Noto Sans CJK SC', sans-serif" font-size="10.5" fill="#C89F65">成熟果比例</text>
+  <text x="229" y="245" text-anchor="middle" font-family="'Noto Sans CJK SC', sans-serif" font-size="10.5" fill="#C89F65">逐日记录</text>
+
+  <!-- Step 3 -->
+  <circle cx="363" cy="155" r="34" fill="#003830" stroke="#C89F65" stroke-width="2"/>
+  <text x="363" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#C89F65">03</text>
+  <text x="363" y="212" text-anchor="middle" font-family="'Noto Sans CJK SC', sans-serif" font-size="12" font-weight="700" fill="#EADBBD">加工</text>
+  <text x="363" y="230" text-anchor="middle" font-family="'Noto Sans CJK SC', sans-serif" font-size="10.5" fill="#C89F65">控制温度、</text>
+  <text x="363" y="245" text-anchor="middle" font-family="'Noto Sans CJK SC', sans-serif" font-size="10.5" fill="#C89F65">湿度与发酵</text>
+
+  <!-- Step 4 -->
+  <circle cx="497" cy="155" r="34" fill="#003830" stroke="#C89F65" stroke-width="2"/>
+  <text x="497" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#C89F65">04</text>
+  <text x="497" y="212" text-anchor="middle" font-family="'Noto Sans CJK SC', sans-serif" font-size="12" font-weight="700" fill="#EADBBD">检验</text>
+  <text x="497" y="230" text-anchor="middle" font-family="'Noto Sans CJK SC', sans-serif" font-size="10.5" fill="#C89F65">杯测与食品</text>
+  <text x="497" y="245" text-anchor="middle" font-family="'Noto Sans CJK SC', sans-serif" font-size="10.5" fill="#C89F65">安全检查</text>
+
+  <!-- Step 5 -->
+  <circle cx="631" cy="155" r="34" fill="#003830" stroke="#C89F65" stroke-width="2"/>
+  <text x="631" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#C89F65">05</text>
+  <text x="631" y="212" text-anchor="middle" font-family="'Noto Sans CJK SC', sans-serif" font-size="12" font-weight="700" fill="#EADBBD">批次编码</text>
+  <text x="631" y="230" text-anchor="middle" font-family="'Noto Sans CJK SC', sans-serif" font-size="10.5" fill="#C89F65">专属12位</text>
+  <text x="631" y="245" text-anchor="middle" font-family="'Noto Sans CJK SC', sans-serif" font-size="10.5" fill="#C89F65">识别号码</text>
+
+  <!-- Step 6 -->
+  <circle cx="765" cy="155" r="34" fill="#C89F65" stroke="#EADBBD" stroke-width="2"/>
+  <text x="765" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#003830">06</text>
+  <text x="765" y="212" text-anchor="middle" font-family="'Noto Sans CJK SC', sans-serif" font-size="12" font-weight="700" fill="#EADBBD">消费者验证</text>
+  <text x="765" y="230" text-anchor="middle" font-family="'Noto Sans CJK SC', sans-serif" font-size="10.5" fill="#C89F65">扫描二维码</text>
+  <text x="765" y="245" text-anchor="middle" font-family="'Noto Sans CJK SC', sans-serif" font-size="10.5" fill="#C89F65">查看批次资料</text>
+
+  <text x="430" y="292" text-anchor="middle" font-family="'Noto Sans CJK SC', sans-serif" font-size="11" font-style="italic" fill="#EADBBD" fill-opacity="0.85">“每个环节都关联到相应生产批次的记录。”</text>
+</svg>
